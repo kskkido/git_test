@@ -1,0 +1,1 @@
+"This is kskkido's first git project!
